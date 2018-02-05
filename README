@@ -1,0 +1,4 @@
+To upload and build:
+
+$ cd RelicRecovery_11689
+$ ftc_http -wub
